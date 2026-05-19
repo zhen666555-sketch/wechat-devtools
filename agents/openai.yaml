@@ -1,0 +1,6 @@
+interface:
+  display_name: "微信开发者工具"
+  short_description: "控制微信开发者工具进行小程序项目管理、真机预览和模拟器截图"
+  icon_small: "./assets/wechat-devtools-small.svg"
+  icon_large: "./assets/wechat-devtools.png"
+  default_prompt: "检测微信开发者工具环境，按需打开项目、生成预览二维码或截取模拟器截图。"
